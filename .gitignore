@@ -1,4 +1,7 @@
+# folders to ignore
 data/
+homework/module1/data/
+
 .ipynb_checkpoints
 .bin
 *.db
