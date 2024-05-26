@@ -1,6 +1,8 @@
 # folders to ignore
 data/
 homework/module1/data/
+02-experiment-tracking/data/
+02-experiment-tracking/models/
 
 .ipynb_checkpoints
 .bin
